@@ -1,4 +1,4 @@
-# NLP Modeling Project - Milestone 5
+# PICO Element Detection
 
 This project is a Named Entity Recognition (NER) and Text Classification System built using deep learning models trained on PubMed abstracts. The system utilizes BiLSTM, FFNN, and Transformer-based architectures to process text efficiently.
 
